@@ -1,4 +1,4 @@
-# ProyectoFInalAREP
+# AE-Proyecto Sistemas de Informacion con Alta Demanda en AWS
 Sistema de Bombardeo a BD's
 
 # Proyecto Final AREP - Sistema de Bombardeo a BD's
@@ -38,4 +38,13 @@ Si deseas probar el sistema de bombardeo, puedes seguir estos pasos:
 Esperamos que encuentres útil este proyecto y que te sirva como referencia en tus estudios.
 
 ¡Gracias por tu interés!
+
+  ## Autores
+
+- Daniel Esteban Pérez Bohórquez
+- Juan Francisco Terán Román
+
+  # Agredecimientos
+- Escuela Colombiana de Ingenieria
+- Luis Daniel Benavides Navarro
 
